@@ -1,0 +1,47 @@
+div {
+    text-align: center;
+    padding: 0.5%;
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.col-4 {
+    width: 32.7%;
+    float: left;
+    height: 75px;
+    margin-top: 0.3%;
+    margin-right: 0.3%;
+    line-height: 23px;
+}
+
+.col-2 {
+    width: 20%;
+    float: left;
+    font-size: 14px;
+    height: 75px;
+    margin-top: 0.3%;
+    margin-right: 0.3%;
+}
+
+.col-6 {
+    width: 43.7%;
+    float: left;
+    font-size: 13px;
+    height: 75px;
+    margin-top: 0.3%;
+}
+
+br {
+    content: "";
+    margin: 1px;
+    display: block;
+}
+
+.centerImg {
+    display: block;
+    margin: 0 auto;
+    width: 350px;
+}
